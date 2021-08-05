@@ -303,9 +303,9 @@ header .intro-text .intro-heading {
 header .intro-text .intro-lead-out {
     margin-bottom: 25px;
     font-family: {{ site.data.template.font.secondary }};
-    font-size: 19px;
+    font-size: 20px;
     font-style: italic;
-    line-height: 19px;
+    line-height: 20px;
 }
 
 @media(min-width:768px) {
