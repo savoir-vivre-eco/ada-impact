@@ -1,13 +1,13 @@
 ---
-title: The Ocean Cleanup
-subtitle: Fight against plastic polution in our oceans.
+title: Cardano Wallets
+subtitle: Stake ADA without leaving your wallet.
 layout: default
-modal-id: 2
+modal-id: 6
 date: 2021-08-09
 img: escape.png
 thumbnail: escape-thumbnail.png
 alt: image-alt
-Purpose: Climate Action
-description: We will be donating to the biggest Ocean restoration project out there. The Ocean Cleanup is a massive initiative collecting plastic garbage from our oceans and restoring sealife habitat. The plastic pollution levels in the oceans have hit critical points. There are currently more plastic items in the oceans than actual fish.
+Purpose: Wallet
+description: Deadalus and Yoroi are two digital wallets where you can keep and manage your crypto assets. There are many other options out there but these two allow you to stake your ADA to a Stake Pool directly from the wallet app. With a couple of clicks you can find our wallet in the 'Delegation list', searching for 'PACT'. 
 
 ---
