@@ -1,15 +1,15 @@
 ---
-title: Treehouse
-subtitle: Website Design
+title: The Green Belt Movement
+subtitle: "I will be a hummingbird. I will do the best I can"
 layout: default
 modal-id: 4
 date: 2014-07-15
 img: treehouse.png
 thumbnail: treehouse-thumbnail.png
 alt: image-alt
-project-date: April 2014
+project-date: August 2021
 client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+category: Reforestation
+description: When they've seen their streams of income, their livelihoods, their subsistence dry up, they stood up and took action. In 1977 Professor Wangari Maathai founded the Green Belt Movement (GBM) to tackle the needs of the rural Kenyan woman who were losing their crops and with it their food, security and resources. The Green Belt Movement is more than a reforestation project. It supports gender equality, climate protection, agricultural education, food security and basic income for so many families in Kenya and around the world.
 
 ---
