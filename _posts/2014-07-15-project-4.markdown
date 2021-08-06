@@ -7,9 +7,7 @@ date: 2021-08-07
 img: treehouse.png
 thumbnail: treehouse-thumbnail.png
 alt: image-alt
-project-date: August 2021
-client: Start Bootstrap
-category: Reforestation
+Purpose: Reforestation, Food Security, Equal Opportunities
 description: When they've seen their streams of income, their livelihoods, their subsistence dry up, they stood up and took action. In 1977 Professor Wangari Maathai founded the Green Belt Movement (GBM) to tackle the needs of the rural Kenyan woman who were losing their crops and with it their food, security and resources. The Green Belt Movement is more than a reforestation project. It supports gender equality, climate protection, agricultural education, food security and basic income for so many families in Kenya and around the world.
 
 ---

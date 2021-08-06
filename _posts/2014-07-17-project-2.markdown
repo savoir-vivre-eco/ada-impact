@@ -7,9 +7,7 @@ date: 2021-08-09
 img: escape.png
 thumbnail: escape-thumbnail.png
 alt: image-alt
-project-date: August 2021
-client: Start Bootstrap
-category: Climate Action
+Purpose: Climate Action
 description: We will be donating to the biggest Ocean restoration project out there. The Ocean Cleanup is a massive initiative collecting plastic garbage from our oceans and restoring sealife habitat. The plastic pollution levels in the oceans have hit critical points. There are currently more plastic items in the oceans than actual fish.
 
 ---

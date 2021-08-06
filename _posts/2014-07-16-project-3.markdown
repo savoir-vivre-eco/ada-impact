@@ -7,9 +7,7 @@ date: 2021-08-08
 img: golden.png
 thumbnail: golden-thumbnail.png
 alt: image-alt
-project-date: August 2021
-client: Start Bootstrap
-category: Education, Equality, Technology
+Purpose: Education, Equality, Technology
 description: We will be helping WAAW foundation supporting young women in Africa to pursue careers in STEM. Empowering young women with technological skills is not only the best guarantee of a bright future for them - offering better opportunities, life stability, security, etc.- but also investing in the future of technological development - generating brilliant skilled minded individuals who might help develop solutions that will bring us to the next level.
 
 ---
