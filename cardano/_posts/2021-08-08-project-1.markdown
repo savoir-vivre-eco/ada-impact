@@ -2,7 +2,7 @@
 title: Cardano whiteboard
 subtitle: Learn the fundaments of Cardano explained by Charles Hoskinson himself.
 layout: default
-modal-id: 1
+modal-id: 5
 date: 2021-08-10
 img: dreams.png
 thumbnail: dreams-thumbnail.png
