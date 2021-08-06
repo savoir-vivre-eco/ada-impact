@@ -1,12 +1,13 @@
 ---
-title: Our mission
-subtitle: Have a + Impact
+title: Cardano whiteboard
+subtitle: Learn the fundaments of Cardano explained by Charles Hoskinson himself.
 layout: default
 modal-id: 1
 date: 2021-08-10
 img: dreams.png
 thumbnail: dreams-thumbnail.png
 alt: image-alt
-Purpose: Sustainable Development
-description: At +Impact we aim to do just that. Have a positive impact on the world. We believe the future for sustainable development lies within blockchain technology. Security and transparency are the keys to achieving Sustainable Development Goals (SDGs). This stake pool is my small contribution to help Cardano gain steam to develop the blockchain technology needed for a brighter future. Our aim is - not only to grow wealth - but to grow a sustainable ecosystem with top-notch technology developed by people who care.
+Purpose: Decentralisation
+description: click <a href="https://www.youtube.com/watch?v=Ja9D0kpksxw">here</a>
+
 ---
