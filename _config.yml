@@ -20,11 +20,11 @@ social:
   - title: Twitter
     url: http://twitter.com/jekyllrb
   - title: Telegram
-    url:
+    url: https://telegram.org/
   - title: Reddit
-    url: http://stackoverflow.com/questions/tagged/jekyll
+    url: https://www.reddit.com/
   - title: Website
-    url: http://bitbucket.org/jekyll
+    url: https://savoir-vivre-eco.github.io/ada-impact/
 
 
 # Postal address (add as many lines as necessary)
