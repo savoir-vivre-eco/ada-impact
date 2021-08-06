@@ -3,7 +3,7 @@ title: Our mission
 subtitle: Have a + Impact
 layout: default
 modal-id: 1
-date: 2021-08-06
+date: 2021-08-10
 img: dreams.png
 thumbnail: dreams-thumbnail.png
 alt: image-alt

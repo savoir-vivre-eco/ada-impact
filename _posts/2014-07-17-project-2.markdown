@@ -3,7 +3,7 @@ title: The Ocean Cleanup
 subtitle: Fight against plastic polution in our oceans.
 layout: default
 modal-id: 2
-date: 2021-08-08
+date: 2021-08-09
 img: escape.png
 thumbnail: escape-thumbnail.png
 alt: image-alt
